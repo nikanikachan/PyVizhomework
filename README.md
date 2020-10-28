@@ -9,8 +9,9 @@ To use this dashboard as a web app, please run the following command in terminal
 
 
 
+![dashboard.gif](Images/dashboard.gif)
 
-  ![dashboard.gif](Images/dashboard.gif)
+
 
 #### Notes on the Dashboard
 - There are three tabs on the dashboard:
