@@ -3,6 +3,8 @@
 
 ### This is a dashboard of interactive visualizations to help customers understand and get a better view of investment opportunities in the San Francisco real estate market
 
+
+
 #### Instructions for viewing this Dashboard
 To use this dashboard as a web app, please run the following command in terminal (Mac OS) or Gitbash (Windows):
 `panel serve dashboard.ipynb --log-level debug --show`
