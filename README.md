@@ -7,6 +7,10 @@
 To use this dashboard as a web app, please run the following command in terminal (Mac OS) or Gitbash (Windows):
 `panel serve dashboard.ipynb --log-level debug --show`
 
+
+
+
+
   ![dashboard.gif](Images/dashboard.gif)
 
 #### Notes on the Dashboard
